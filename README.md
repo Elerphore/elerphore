@@ -1,6 +1,15 @@
-### Hi there 👋
-
-![ElerphoreDiscord](https://dcbadge.vercel.app/api/shield/277096140275449856)
-[![t.me/elerphore](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][1]
-
-[1]: https://t.me/elerphore
+## <img width="45" alt="about" src="https://raw.github.com/demiurg906/demiurg906/master/about.png"> More about me
+```kotlin
+val elerphore = developer {
+    about {
+        name = "Eremey Malinovsky"
+        role = Backend_Android_Developer
+    }
+    tech("Kotlin", "Dart", "Go")
+    links {
+        telegram = "@Elerphore"
+        discord = "Elerphore#7557"
+        twitter = "@elerphore"
+    }
+}
+```
