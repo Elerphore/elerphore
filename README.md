@@ -5,7 +5,7 @@ val elerphore = developer {
         name = "Eremey Malinovsky"
         role = Backend_Android_Developer
     }
-    tech("Kotlin", "Dart", "Go")
+    tech("Kotlin", "Go")
     links {
         telegram = "@Elerphore"
         discord = "Elerphore#7557"
