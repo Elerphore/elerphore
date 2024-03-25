@@ -9,7 +9,6 @@ val elerphore = developer {
     links {
         telegram = "@Elerphore"
         discord = "Elerphore#7557"
-        twitter = "@elerphore"
     }
 }
 ```
