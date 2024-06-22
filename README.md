@@ -3,12 +3,12 @@
 val elerphore = developer {
     about {
         name = "Eremey Malinovsky"
-        role = Backend_Android_Developer
+        role = Backend_Developer
     }
-    tech("Kotlin", "Go")
+    tech("Kotlin", "Go", "Rust")
     links {
         telegram = "@Elerphore"
-        discord = "Elerphore#7557"
+        discord = "Elerphore"
     }
 }
 ```
